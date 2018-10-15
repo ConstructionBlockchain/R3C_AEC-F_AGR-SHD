@@ -1,4 +1,4 @@
-# Shareholder Agreement( R3C_AEC-F_AGR-SHD)
+# Shareholder Agreement Module (R3C_AEC-F_AGR-SHD)
 R3 Corda: AEC Finance: Shareholder Agreement Module
 
 ## What are Shareholder Agreements?
